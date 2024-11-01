@@ -1,5 +1,4 @@
-# ECE-M202A-Final-Project
-# Unitree Go 2 Autonomous Exploration and Object Retrieval System
+# ECE-M202A-Final-Project - Unitree Go 2 Autonomous Exploration and Object Retrieval System
 
 ## Overview
 This project utilizes the Unitree Go 2 robot dog to autonomously explore designated areas, recognize and log objects in the environment using machine learning, and assist operators by retrieving specific items upon request. The project aims to reduce the manual workload and enhance safety in complex or hazardous environments, such as industrial facilities, warehouses, and emergency scenarios.
