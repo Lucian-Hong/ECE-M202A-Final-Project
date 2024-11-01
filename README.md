@@ -27,13 +27,13 @@ This project aims to create a collaborative human-robot system where the Unitree
 - **Objective**: Provide a hands-free, voice-controlled interface allowing the operator to request specific objects and guide the robot’s actions in real-time.
 - **Expected Outcome**: An intuitive interface enabling efficient operator collaboration with the robot.
 
-### Aim 3: Implement Advanced Safety and Situational Awareness Features for Enhanced Operator Guidance
-- **Objective**: Enhance safety and situational awareness to support navigation and risk reduction in hazardous or low-visibility environments.
-- **Expected Outcome**: A system capable of safely guiding operators, improving situational awareness, and minimizing risks.
-
-### Aim 4: Validate the System in Real-World Use Cases
+### Aim 3: Validate the System in Real-World Use Cases
 - **Objective**: Test the system’s performance in real-world scenarios to meet functionality and safety standards in applications such as emergency evacuation and industrial tool retrieval.
 - **Expected Outcome**: Proven effectiveness of the system in practical applications, providing insights for further optimization.
+
+### Aim 4: Implement Advanced Safety and Situational Awareness Features for Enhanced Operator Guidance
+- **Objective**: Enhance safety and situational awareness to support navigation and risk reduction in hazardous or low-visibility environments.
+- **Expected Outcome**: A system capable of safely guiding operators, improving situational awareness, and minimizing risks.
 
 ## System Architecture
 - **Platform**: Unitree Go 2 robot dog
